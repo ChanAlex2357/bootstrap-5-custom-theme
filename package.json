@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap-5-custom-theme",
+  "version": "1.0.0",
+  "description": "Customise bootstrap 5 for project specific theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChanAlex2357/bootstrap-5-custom-theme.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChanAlex2357/bootstrap-5-custom-theme/issues"
+  },
+  "homepage": "https://github.com/ChanAlex2357/bootstrap-5-custom-theme#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
